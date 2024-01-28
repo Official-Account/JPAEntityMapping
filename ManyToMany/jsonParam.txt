@@ -1,0 +1,28 @@
+{
+
+    "studentName":"AAA",
+    "studentAge":"20",
+    "studentGender":"male",
+    "studentDept":"DEV",
+    "courses":[
+      {
+        "title":"Java",
+        "duration":"6",
+        "fee":"20000"
+      },
+      {
+        "title":".Net",
+        "duration":"6",
+        "fee":"15000"
+      },
+      {
+        "title":"PHP",
+        "duration":"3",
+        "fee":"10000"
+      },{
+        "title":"Pathon",
+        "duration":"12",
+        "fee":"18000"
+      }
+    ]
+  }

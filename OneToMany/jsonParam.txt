@@ -1,0 +1,33 @@
+{
+     "student" :{
+
+    "studentName":"BBB",
+    "studentAge":"11",
+    "studentGender":"female",
+    "addresses":[
+      {
+        "addCity":"Dehradun",
+        "addPinCode":"440052",
+        "addState":"UttaraKhand",
+        "addCountry":"India"
+      },
+      {
+        "addCity":"Ranikhet",
+        "addPinCode":"440053",
+        "addState":"UttaraKhand",
+        "addCountry":"India"
+      },
+      {
+        "addCity":"Varkala",
+        "addPinCode":"230052",
+        "addState":"Kerla",
+        "addCountry":"India"
+      },{
+        "addCity":"Thiruvananthapuram",
+        "addPinCode":"230053",
+        "addState":"Kerla",
+        "addCountry":"India"
+      }
+    ]
+  }
+}
